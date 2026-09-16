@@ -15,7 +15,11 @@ Quando faltar informação, escreva:
 "Necessita validação".
 
 Entrada:
-[COLE A SOLICITAÇÃO]
+Atualmente, os clientes precisam ligar para a central para cancelar um agendamento.
+
+Queremos permitir que o cliente faça o cancelamento diretamente pelo aplicativo.
+
+Acho que seria bom cobrar uma taxa quando a pessoa cancelar muito perto do horário.
 ```
 
 ## 2. Identificação de Ambiguidades
@@ -29,7 +33,7 @@ Não tente interpretá-los.
 Não confunda informação ausente com ambiguidade.
 
 Entrada:
-[COLE O REQUISITO]
+O aplicativo deve permitir que qualquer cliente cancele facilmente qualquer agendamento, mesmo quando estiver muito perto do horário marcado.
 ```
 
 ## 3. Perguntas de Elicitação em Camadas
@@ -45,7 +49,9 @@ realmente deve existir.
 Não detalhe valores, percentuais ou implementação antes da confirmação.
 
 Entrada:
-[COLE A SOLICITAÇÃO]
+Queremos permitir o cancelamento de agendamentos pelo aplicativo.
+
+Acho que seria bom cobrar uma taxa quando o cliente cancelar muito perto do horário.
 ```
 
 ## 4. Fatos x Sugestões x Lacunas
@@ -65,7 +71,13 @@ Para informações ausentes utilize:
 Não transforme sugestões em regras.
 
 Entrada:
-[COLE O TEXTO]
+Atualmente, o cancelamento de agendamentos é realizado pela central de atendimento.
+
+A empresa deseja permitir que o cliente faça o cancelamento pelo aplicativo.
+
+Um stakeholder sugeriu que talvez seja interessante cobrar uma taxa quando o cancelamento acontecer muito perto do horário.
+
+Ainda não foram definidos o prazo limite para cancelamento nem se a cobrança da taxa será realmente adotada.
 ```
 
 ## 5. Clareza e Testabilidade
@@ -84,5 +96,5 @@ Quando faltar informação, marque:
 Indique que o resultado necessita revisão humana.
 
 Entrada:
-[COLE O REQUISITO]
+O sistema deve permitir que o cliente cancele qualquer agendamento facilmente pelo aplicativo e talvez cobrar uma taxa caso o cancelamento seja realizado muito perto do horário.
 ```
