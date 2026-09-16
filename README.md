@@ -344,10 +344,3 @@ O resultado é um processo em que a IA aumenta a produtividade sem retirar do An
 
 Projeto de estudo e portfólio voltado à aplicação de Inteligência Artificial em Análise de Requisitos e Automação de Processos.
 
-## 🏷️ Descrição sugerida para o GitHub
-
-> Projeto DIO sobre aprendizagem com NotebookLM: IA aplicada à Análise de Requisitos, Engenharia de Prompts e automação com n8n.
-
-### Topics sugeridos
-
-`notebooklm` `n8n` `generative-ai` `requirements-engineering` `business-analysis` `prompt-engineering` `automation` `dio`
